@@ -1,15 +1,15 @@
 {
-  "name": "Academic",
-  "short_name": "Academic",
+  "name": "Wouter Beukema",
+  "short_name": "Wouter Beukema",
   "lang": "en-us",
   "theme_color": "#2962ff",
   "background_color": "#2962ff",
   "icons": [{
-    "src": "/images/icon_huc5ade5dd282c675f4b47f3c5bb343923_21203_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu84158a6bea3900acb8db7bdc5bfd205a_35916_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_huc5ade5dd282c675f4b47f3c5bb343923_21203_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu84158a6bea3900acb8db7bdc5bfd205a_35916_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
